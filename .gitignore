@@ -1,0 +1,9 @@
+.DS_Store
+data
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode/
+__pycache__/
+wandb/
+results/
+graphs/
